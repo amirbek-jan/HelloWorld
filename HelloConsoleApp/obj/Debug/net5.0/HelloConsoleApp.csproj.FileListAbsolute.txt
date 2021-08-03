@@ -1,0 +1,16 @@
+C:\Projects\HelloApp\HelloConsoleApp\bin\Debug\net5.0\HelloConsoleApp.exe
+C:\Projects\HelloApp\HelloConsoleApp\bin\Debug\net5.0\HelloConsoleApp.deps.json
+C:\Projects\HelloApp\HelloConsoleApp\bin\Debug\net5.0\HelloConsoleApp.runtimeconfig.json
+C:\Projects\HelloApp\HelloConsoleApp\bin\Debug\net5.0\HelloConsoleApp.runtimeconfig.dev.json
+C:\Projects\HelloApp\HelloConsoleApp\bin\Debug\net5.0\HelloConsoleApp.dll
+C:\Projects\HelloApp\HelloConsoleApp\bin\Debug\net5.0\ref\HelloConsoleApp.dll
+C:\Projects\HelloApp\HelloConsoleApp\bin\Debug\net5.0\HelloConsoleApp.pdb
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\HelloConsoleApp.csproj.AssemblyReference.cache
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\HelloConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\HelloConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\HelloConsoleApp.AssemblyInfo.cs
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\HelloConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\HelloConsoleApp.dll
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\ref\HelloConsoleApp.dll
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\HelloConsoleApp.pdb
+C:\Projects\HelloApp\HelloConsoleApp\obj\Debug\net5.0\HelloConsoleApp.genruntimeconfig.cache
